@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="genders">
+        <item>Select One</item>
+        <item>Shonen</item>
+        <item>Isekai</item>
+        <item>Harem</item>
+    </string-array>
+</resources>
